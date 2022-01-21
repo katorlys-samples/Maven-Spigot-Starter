@@ -22,6 +22,6 @@ config.yml:
 ```
 
 ## Notice
-- Everyone has their own preference. Please don't leave bad reviews if you dislike it, and test before reviewing!
-- Report bugs [on Github](https://github.com/katorlys/NAME/issues), and DO NOT use the review section. Before bug reporting, please check bug on the latest version of plugin.
-- Go to [Discussions](https://github.com/katorlys/Discussions/discussions) for further assistance.
+- Test before reviewing. Please don't leave bad reviews if you dislike it.
+- If you find a bug, make sure you're using the lastest version of the plugin and report bugs [on Github](https://github.com/katorlys/NAME/issues). DO NOT use the review section to report bugs!
+- Have any other issues or questions? Go to [Discussions](https://github.com/katorlys/Discussions/discussions) for further assistance.
