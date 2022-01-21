@@ -1,4 +1,27 @@
-# NAME
-[![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.html) ![Pull Requests](https://img.shields.io/github/issues-pr-closed/katorlys/NAME?style=for-the-badge) ![Issues](https://img.shields.io/github/issues-closed/katorlys/NAME?style=for-the-badge)
+<h1 align="center">NAME</h1>
+<p align="center">One sentence to describe your plugin.<br><br>
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/license-GPLv3-blue?style=flat-square"></a> <a href="https://github.com/katorlys/NAME/releases/latest"><img src="https://img.shields.io/github/v/release/katorlys/NAME?include_prereleases&style=flat-square"></a> <a href="https://github.com/katorlys/NAME/actions/workflows/build.yml"><img src="https://img.shields.io/github/workflow/status/katorlys/NAME/Build?style=flat-square"></a> <a href="https://github.com/katorlys/NAME/pulls"><img src="https://img.shields.io/github/issues-pr-closed/katorlys/NAME?style=flat-square"></a> <a href="https://github.com/katorlys/NAME/issues"><img src="https://img.shields.io/github/issues-closed/katorlys/NAME?style=flat-square"></a></p>
 
 ## Introduction
+Describe your plugin clearly.
+### Features
+- Feature 1
+### Dependencies
+
+
+## Commands
+`/command` Command function.
+
+## Permissions
+`permission.node` Permission description.
+
+## Config
+config.yml:
+```yml
+# Your config here.
+```
+
+## Notice
+- Everyone has their own preference. Please don't leave bad reviews if you dislike it, and test before reviewing!
+- Report bugs [on Github](https://github.com/katorlys/NAME/issues), and DO NOT use the review section. Before bug reporting, please check bug on the latest version of plugin.
+- Go to [Discussions](https://github.com/katorlys/Discussions/discussions) for further assistance.
