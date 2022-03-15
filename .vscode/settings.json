@@ -1,7 +1,8 @@
 {
-    "git.autofetch": true,
+    "git.autofetch": "all",
     "git.confirmSync": false,
-    "files.autoSave": "onFocusChange",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
     "editor.formatOnType":true,
     "java.configuration.updateBuildConfiguration": "automatic"
 }
