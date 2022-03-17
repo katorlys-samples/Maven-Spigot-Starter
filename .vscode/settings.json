@@ -6,6 +6,6 @@
     "editor.formatOnType":true,
     "java.configuration.updateBuildConfiguration": "automatic",
     "yaml.schemas": {
-        "https://json.schemastore.org/bukkit-plugin.json": "file:///workspace/Maven-Spigot-Starter/src/main/resources/plugin.yml"
+        "https://json.schemastore.org/bukkit-plugin.json": "file:///src/main/resources/plugin.yml"
     }
 }
