@@ -1,5 +1,5 @@
 name: NAME
 version: 1.0.0
 author: Katorly
-main: com.github.yourname.name.NAME
+main: com.github.katorly.name.NAME
 api-version: 1.18
