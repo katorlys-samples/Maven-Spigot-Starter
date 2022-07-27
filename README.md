@@ -23,5 +23,5 @@ config.yml:
 
 ## Notice
 - Test before reviewing. Please don't leave bad reviews if you dislike it.
-- If you find a bug, make sure you're using the lastest version of the plugin and report bugs [on Github](https://github.com/katorlys/NAME/issues). DO NOT use the review section to report bugs!
-- Have any other issues or questions? Go to [Discussions](https://github.com/katorlys/Discussions/discussions) for further assistance.
+- If you find a bug, make sure you're using the lastest version of the plugin and then report bugs [on Github](https://github.com/katorlys/NAME/issues). DO NOT use the review section to report bugs!
+- Have any other issues or questions? Go to [Discussions](https://github.com/orgs/katorlys/discussions) for further assistance.
