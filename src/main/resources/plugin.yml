@@ -1,5 +1,5 @@
-name: NAME
-version: 1.0.0
+name: ${project.artifactId}
+version: ${project.version}
 author: Katorly
-main: com.github.katorly.name.NAME
+main: com.github.katorly.exampleproject.ExampleProject
 api-version: 1.19
