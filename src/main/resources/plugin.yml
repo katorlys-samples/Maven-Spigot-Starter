@@ -2,4 +2,4 @@ name: ${project.artifactId}
 version: ${project.version}
 author: Katorly
 main: com.github.katorly.exampleproject.ExampleProject
-api-version: 1.19
+api-version: 1.21

@@ -1,0 +1,26 @@
+{
+    "name": "Minecraft Server Plugin Maven Dev Container",
+    "image": "katorly/workspace-java:latest",
+    "postCreateCommand": "mvn -B clean verify",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "redhat.java",
+                "redhat.vscode-xml",
+                "redhat.fabric8-analytics",
+                "vscjava.vscode-maven",
+                "vscjava.vscode-java-pack",
+                "vscjava.vscode-java-test",
+                "vscjava.vscode-java-debug",
+                "vscjava.vscode-java-dependency"
+            ],
+            "settings": {
+                "java.configuration.updateBuildConfiguration": "automatic",
+                "yaml.schemas": {
+                    "https://json.schemastore.org/bukkit-plugin.json": "file:///src/main/resources/plugin.yml"
+                },
+                "java.compile.nullAnalysis.mode": "automatic"
+            }
+        }
+    }
+}

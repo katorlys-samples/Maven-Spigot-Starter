@@ -1,9 +1,30 @@
-<h1 align="center">ExampleProject</h1>
-<p align="center">One sentence to describe your plugin.<br><br>
-<a href="https://mozilla.org/MPL/2.0"><img src="https://img.shields.io/badge/license-MPL%202.0-brightgreen?style=flat-square"></a> <a href="https://github.com/katorlys/ExampleProject/releases/latest"><img src="https://img.shields.io/github/v/release/katorlys/ExampleProject?include_prereleases&style=flat-square"></a> <a href="https://github.com/katorlys/ExampleProject/actions/workflows/build.yml"><img src="https://img.shields.io/github/actions/workflow/status/katorlys/ExampleProject/build.yml?style=flat-square"></a> <a href="https://github.com/katorlys/ExampleProject/pulls"><img src="https://img.shields.io/github/issues-pr-closed/katorlys/ExampleProject?style=flat-square"></a> <a href="https://github.com/katorlys/ExampleProject/issues"><img src="https://img.shields.io/github/issues-closed/katorlys/ExampleProject?style=flat-square"></a> <a href="https://github.com/katorlys/ExampleProject"><img src="https://img.shields.io/tokei/lines/github/katorlys/ExampleProject?style=flat-square"></a></p>
+<a name="readme-top"></a>
+<div align="center">
+
+<!-- <a href="#">
+  <img src="https://github.com/katorlys/.github/blob/main/assets/mark/mark.png" height="100">
+</a><br> -->
+
+<h1>
+  ExampleProject
+</h1>
+
+<p>
+  One sentence to describe your plugin.
+</p>
+
+[![Pull Requests][github-pr-badge]][github-pr-link]
+[![Issues][github-issue-badge]][github-issue-link]
+[![License][github-license-badge]](LICENSE)
+
+</div>
+
+
+<!-- Main Body -->
 
 ## Introduction
 Describe your plugin clearly.
+
 ### Features
 - Feature 1
 ### Dependencies
@@ -22,6 +43,38 @@ config.yml:
 ```
 
 ## Notice
-- Test before reviewing. Please don't leave bad reviews if you dislike it.
-- If you find a bug, make sure you're using the lastest version of the plugin and then report bugs [on Github](https://github.com/katorlys/ExampleProject/issues). DO NOT use the review section to report bugs!
-- Have any other issues or questions? Go to [Discussions](https://github.com/orgs/katorlys/discussions) for further assistance.
+- Please test before leaving a review. If you dislike it, avoid leaving negative reviews.
+- If you find a bug, are unsure how to use the plugin, or have feature suggestions, make sure that you're using the latest version and report issues on [GitHub](https://github.com/katorlys/ExampleProject/issues).
+- DO NOT use the review section to report bugs, as you won't receive support there.
+- For other issues or questions, visit [Discussions](https://github.com/orgs/katorlys/discussions) for further assistance.
+
+<!-- /Main Body -->
+
+
+<div align="right">
+  
+[![BACK TO TOP][back-to-top-button]](#readme-top)
+
+</div>
+
+---
+
+<div align="center">
+
+<p>
+  Copyright &copy; 2024-present <a target="_blank" href="https://github.com/katorlys">Katorly Lab</a>
+</p>
+
+[![License][github-license-badge-bottom]](LICENSE)
+
+</div>
+
+[back-to-top-button]: https://img.shields.io/badge/BACK_TO_TOP-151515?style=flat-square
+[github-pr-badge]: https://img.shields.io/github/issues-pr/katorlys/ExampleProject?label=pulls&labelColor=151515&color=79E096&style=flat-square
+[github-pr-link]: https://github.com/katorlys/ExampleProject/pulls
+[github-issue-badge]: https://img.shields.io/github/issues/katorlys/ExampleProject?labelColor=151515&color=FFC868&style=flat-square
+[github-issue-link]: https://github.com/katorlys/ExampleProject/issues
+[github-license-badge]: https://img.shields.io/github/license/katorlys/ExampleProject?labelColor=151515&color=EFEFEF&style=flat-square
+<!-- https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-EFEFEF?labelColor=151515&style=flat-square -->
+[github-license-badge-bottom]: https://img.shields.io/github/license/katorlys/ExampleProject?labelColor=151515&color=EFEFEF&style=for-the-badge
+<!-- https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-EFEFEF?labelColor=151515&style=for-the-badge -->
