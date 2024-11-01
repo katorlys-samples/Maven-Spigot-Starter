@@ -16,6 +16,8 @@
 [![Pull Requests][github-pr-badge]][github-pr-link]
 [![Issues][github-issue-badge]][github-issue-link]
 [![License][github-license-badge]](LICENSE)
+[![Build][github-build-badge]][github-build-link]
+[![Release][github-release-badge]][github-release-link]
 
 </div>
 
@@ -78,3 +80,7 @@ config.yml:
 <!-- https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-EFEFEF?labelColor=151515&style=flat-square -->
 [github-license-badge-bottom]: https://img.shields.io/github/license/katorlys/ExampleProject?labelColor=151515&color=EFEFEF&style=for-the-badge
 <!-- https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-EFEFEF?labelColor=151515&style=for-the-badge -->
+[github-build-badge]: https://img.shields.io/github/actions/workflow/status/katorlys/ExampleProject/build.yml?labelColor=151515&style=flat-square
+[github-build-link]: https://github.com/katorlys/ExampleProject/actions/workflows/build.yml
+[github-release-badge]: https://img.shields.io/github/v/release/katorlys/ExampleProject?include_prereleases&labelColor=151515&color=8DD1E0&style=flat-square
+[github-release-link]: https://github.com/katorlys/ExampleProject/releases/latest
